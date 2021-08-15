@@ -29,7 +29,7 @@ while (true) {
         if (maquina == pedra) {
             alert("Parabéns, papel envolve pedra");
         } else if (maquina == tesoura) {
-            alert("Que pena ,tesoura corta papel");
+            alert("Que pena, tesoura corta papel");
         } else if (maquina == papel) {
             alert("Empate");
         }
